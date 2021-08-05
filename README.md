@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm a Web Software Engineer. 🤖
-Some technologies that I enjoy working with include ReactJS, Jamstack (JavaScript, API + Markup), and GraphQL.
-I recently launched [@picnicdigital.io](https://picnicdigital.io) to share demos and knowledge on web development.
+#### I'm a Web Developer. 🤖
+With more than 4 years of experience developing on agile methodologies and with multiple technologies according to the needs of the project, always learning from the evolution of technologies and being part of the impact they cause in the world. I am interested in modern technologies like Nextjs, GraphQL, Serverless, and Jamstack.
