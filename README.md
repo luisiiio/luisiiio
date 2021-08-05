@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### I'm a Web Software Engineer. 🤖
+Some technologies that I enjoy working with include ReactJS, Jamstack (JavaScript, API + Markup), and GraphQL.
+I recently launched [@picnicdigital.io](https://picnicdigital.io) to share demos and knowledge on web development.
